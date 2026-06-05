@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+namespace WindowsFormsApp1
 {
     partial class Form1
     {
@@ -154,5 +154,3 @@
         private System.Windows.Forms.Label label4;
     }
 }
-
-
